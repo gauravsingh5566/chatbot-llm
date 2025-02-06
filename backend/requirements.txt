@@ -1,4 +1,11 @@
 fastapi
 uvicorn
-transformers  # For loading the Llama model
-torch  # If you are using a PyTorch-based model like Llama
+torch
+transformers
+sentencepiece
+accelerate
+protobuf
+blobfile
+tiktoken
+flask
+gunicorn
