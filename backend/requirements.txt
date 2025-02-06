@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+transformers  # For loading the Llama model
+torch  # If you are using a PyTorch-based model like Llama
